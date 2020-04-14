@@ -77,4 +77,4 @@ This diagram illustrates the architecture of Prometheus and some of its ecosyste
 
 ![Prometheus architecture][plogo]
 
-[plogo]: https://github.com/ramiljoaquin/HelloKubernetes_with_Prometheus/blob/master/assets/architecture.png 'Kubernetes architecture'
+[plogo]: https://github.com/ramiljoaquin/HelloKubernetes_with_Prometheus/blob/master/docs/architecture.png 'Kubernetes architecture'
